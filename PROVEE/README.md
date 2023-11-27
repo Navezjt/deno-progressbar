@@ -1,2 +1,3 @@
-https://github.com/jakobhellermann/deno-progressbar
-https://deno.land/x/progressbar@v0.2.0/widgets.ts
+- https://github.com/jakobhellermann/deno-progressbar
+- https://deno.land/x/progressbar@v0.2.0/widgets.ts
+- https://github.com/Raiper34/m3u-parser-generator
