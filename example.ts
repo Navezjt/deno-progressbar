@@ -1,4 +1,4 @@
-import ProgressBar from "https://deno.land/x/progressbar@v0.2.0/progressbar.ts"; 
+import ProgressBar from "https://deno.land/x/progressbar@v0.2.0/progressbar.ts";
 import {
   percentageWidget,
   amountWidget,
