@@ -1,4 +1,4 @@
-import ProgressBar, { StyleFn } from "./progressbar.ts";
+import ProgressBar, { StyleFn } from "./progressbar.ts"; 
 
 export function simple(i: number, pb: ProgressBar): string {
   const filled = Math.round((pb.width * i) / pb.total);
