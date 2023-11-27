@@ -1,4 +1,4 @@
-import { WidgetFn } from "./progressbar.ts";
+import { WidgetFn } from "./progressbar.ts"; 
 
 export const percentageWidget: WidgetFn = (i: number, total: number) =>
   `${(i / total * 100).toFixed(2)}%`;
