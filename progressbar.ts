@@ -1,4 +1,4 @@
-import { bar } from "./styles.ts"; 
+import { bar } from "./styles.ts";
 
 export type WidgetFn = (i: number, total: number) => string;
 export type StyleFn = (i: number, pb: ProgressBar) => string;
